@@ -1,0 +1,6 @@
+1- "hello.py" is the statistics python code
+2- "hello.py" won't compile on your PC unless you have the required modules
+to run it (matplotlib,pandas,scipy,seaborn,numble,requests,etc...)
+
+
+phpmyadmin default user: root ; no password
